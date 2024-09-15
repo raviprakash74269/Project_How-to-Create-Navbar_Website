@@ -10,7 +10,7 @@ color: white;
     background-color: black;
 }
 button{
-    background-color: burlywood;
+    background-color: orange;
 }
 #logo{
     color: orange;
@@ -18,4 +18,5 @@ button{
 }
 a{
     margin-right: 170px;
+    text-decoration: none;
 }
